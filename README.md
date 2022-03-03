@@ -4,7 +4,7 @@ RentX is an API developed in Typescript for car rentals.
 
 ## Description
 
-This API is a project built during the Rocketseat Ignite NodeJS course. This API manages the car rentals process throught endpoints. It covers many software development best practices like SOLID, unit and integration tests and how to containerize applications.
+This API is a project built during the Rocketseat Ignite NodeJS course. This API manages car rentals process throught HTTP endpoints. It covers many software development best practices like SOLID, unit and integration tests and how to containerize applications.
 
 ## Installation
 
