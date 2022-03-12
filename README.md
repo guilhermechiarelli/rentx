@@ -18,5 +18,5 @@ This API is a project built during the Rocketseat Ignite NodeJS course and manag
 - Access the directory locally;
 - Config .env file based on .env.example file;
 - Run "npm install" to install all dependencies;
-- Run "docker-compose up -d" to start up de environment with the database;
+- Run "docker-compose up -d" to start up the environment with the database;
 - It will run in the port 3333.
